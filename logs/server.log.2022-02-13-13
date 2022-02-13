@@ -1,0 +1,2 @@
+[2022-02-13 13:04:12,824] INFO Creating new log file: log.1 (org.apache.zookeeper.server.persistence.FileTxnLog)
+[2022-02-13 13:55:28,411] INFO Expiring session 0x10000247f1f0000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
